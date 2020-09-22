@@ -4,7 +4,6 @@ import ToggleComponent from './ToggleComponent';
 import './App.css';
 
 const App = () => {
-  nick
 	return (
 		<div>
 			<ToggleComponent>

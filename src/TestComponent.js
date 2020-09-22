@@ -1,7 +1,6 @@
 import React from 'react';
 
 const TestComponent = () => {
-	nick;
 	return (
 		<div>
 			<h1 style={{ color: 'red' }}>

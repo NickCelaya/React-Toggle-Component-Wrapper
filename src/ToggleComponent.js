@@ -5,7 +5,7 @@ import './App.css';
 class ToggleComponent extends Component {
 	state = {
 		show: true,
-		name: 'Nick C',
+		name: 'Nick',
 	};
 
 	onToggle = () => {
@@ -16,7 +16,7 @@ class ToggleComponent extends Component {
 
 	/* Can invoke test where props.children is to have a function that can toggle some jsx
     invoke as this.test */
-nick
+	nick;
 	// test = () => {
 	// 	return (
 	// 		<div>
